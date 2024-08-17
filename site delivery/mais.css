@@ -1,0 +1,85 @@
+body {margin: 0;
+    background-image: url(fundo3.png);
+    background-size: cover;}
+
+#cabeçalho {background-color: #D8981D;
+width: 100%;
+height: 155px;}
+
+#logo {position: relative;
+left: 650px;}
+
+#inicio { 
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 125px;
+left: 250px;
+}
+
+#quemsomos {
+
+width: 250px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 195px;
+left: 500px;}
+
+#buscar {
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 265px;
+left: 1175px;}
+#mais {
+
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 335px;
+left: 1425px;}
+
+a {text-decoration: none;
+color: black;}
+
+#info {display: grid;
+gap: 250px;
+grid-template-columns: 385px 385px 395px;
+grid-template-rows: 280px;
+position: relative;
+left: 120px;
+width: 1000px;}
+
+#prato{border: solid 15px white;
+}
+
+#tel {border: solid 15px white;
+}
+
+#garçom {border: solid 15px white;
+}
+
+#menu {color: white;
+font-size: 30px;
+position: relative;
+left: 260px;
+width: 100px;}
+
+#contato{color: white;
+font-size: 30px;
+position: relative;
+left: 825px;
+width: 100px;}
+
+#pedidos {color: white;
+font-size: 30px;
+position: relative;
+left: 1365px;
+width: 100px;}

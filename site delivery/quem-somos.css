@@ -1,0 +1,67 @@
+body {margin: 0;
+    background-image: url(fundo.png);
+    background-size: cover;}
+
+#cabeçalho {background-color: #D8981D;
+width: 100%;
+height: 155px;}
+
+#logo {position: relative;
+left: 650px;}
+
+#inicio { 
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 125px;
+left: 250px;
+}
+
+#quemsomos {
+
+width: 250px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 195px;
+left: 500px;}
+
+#buscar {
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 265px;
+left: 1175px;}
+#mais {
+
+
+width: 185px;
+    height: 50px;
+    text-align: center;
+position: relative;
+bottom: 335px;
+left: 1425px;}
+
+a {text-decoration: none;
+color: black;}
+
+#h1 {color: white;
+font-size: 50px;}
+
+#texto{color: white;
+font-size: 35px;
+height: 0;}
+
+#conjunto {position: relative;
+bottom: 150px;
+left: 270px;
+width: 700px;}
+
+#clientes {position: relative;
+bottom: 250px;
+left: 950px;
+height: 500px;}
